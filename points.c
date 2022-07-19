@@ -13,7 +13,7 @@ int main(void)
     else if (points > MINE)
     {
         printf("You lost more points than me!\n");
-    }
+    }d
     else
     {
         printf("You lost the same number of points than me!");
